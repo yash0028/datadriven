@@ -2,6 +2,6 @@ package com.demowebshop.pageob;
 
 public class LoginPage {
 	
-	//Login link :
+	////Email , Password , Login Button link :
 
 }
